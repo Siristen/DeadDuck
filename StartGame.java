@@ -1,1 +1,2 @@
-There once was a text file and it was really really reallydull.
+//This will be an init file
+//No, really, I mean it...
